@@ -1,0 +1,4 @@
+*.gz filter=lfs diff=lfs merge=lfs -text
+*.fai filter=lfs diff=lfs merge=lfs -text
+*.gzi filter=lfs diff=lfs merge=lfs -text
+*.tbi filter=lfs diff=lfs merge=lfs -text
